@@ -1,0 +1,3 @@
+#we can also write 
+from hangman_art import stages
+this will allow us write short codes

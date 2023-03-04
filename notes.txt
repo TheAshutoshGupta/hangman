@@ -1,3 +1,3 @@
 #we can also write 
-from hangman_art import stages
+from hangman_art import stages, import logo
 this will allow us write short codes
